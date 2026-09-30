@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of a full-height sliding wardrobe with loft storage">
+<defs><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#e0b400" stop-opacity=".30"/><stop offset="1" stop-color="#e0b400" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ed3050" stop-opacity=".28"/><stop offset="1" stop-color="#ed3050" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="600" fill="#faf6f1"/>
+<rect x="0" y="0" width="800" height="470" fill="#fdf7d8"/>
+<circle cx="600" cy="170" r="230" fill="url(#g1)"/><circle cx="170" cy="390" r="200" fill="url(#g2)"/>
+<line x1="0" y1="470" x2="800" y2="470" stroke="#2a2226" stroke-width="3"/>
+<g fill="none" stroke="#2a2226" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="120" y="70" width="450" height="80" fill="#fff"/><line x1="270" y1="70" x2="270" y2="150"/><line x1="420" y1="70" x2="420" y2="150"/>
+<rect x="120" y="150" width="450" height="318" fill="#fff"/>
+<rect x="120" y="150" width="160" height="318" fill="#e0b400" fill-opacity=".14"/><line x1="280" y1="150" x2="280" y2="468"/><line x1="420" y1="150" x2="420" y2="468"/>
+<line x1="265" y1="280" x2="265" y2="340"/><line x1="295" y1="280" x2="295" y2="340"/><line x1="435" y1="280" x2="435" y2="340"/>
+<line x1="330" y1="200" x2="400" y2="200"/><path d="M340 200 v14 l-18 30 h56 l-18-30 v-14"/><path d="M372 200 v14 l-12 34"/>
+<line x1="300" y1="380" x2="400" y2="380"/><line x1="300" y1="420" x2="400" y2="420"/>
+<rect x="610" y="150" width="90" height="220" rx="45" fill="#fff"/><path d="M630 200 q20-20 40 0" />
+<rect x="600" y="410" width="110" height="30" rx="6" fill="#fff"/><line x1="612" y1="440" x2="612" y2="468"/><line x1="698" y1="440" x2="698" y2="468"/></g>
+<line x1="60" y1="530" x2="300" y2="530" stroke="#e0b400" stroke-width="4" stroke-linecap="round"/>
+</svg>

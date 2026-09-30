@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of a floor plan with a key, representing turnkey interiors">
+<defs><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#85014d" stop-opacity=".30"/><stop offset="1" stop-color="#85014d" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f5d90a" stop-opacity=".28"/><stop offset="1" stop-color="#f5d90a" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="600" fill="#faf6f1"/>
+<rect x="0" y="0" width="800" height="470" fill="#f6e6ef"/>
+<circle cx="600" cy="170" r="230" fill="url(#g1)"/><circle cx="170" cy="390" r="200" fill="url(#g2)"/>
+<line x1="0" y1="470" x2="800" y2="470" stroke="#2a2226" stroke-width="3"/>
+<g fill="none" stroke="#2a2226" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="100" y="80" width="420" height="360" fill="#fff"/><line x1="100" y1="250" x2="300" y2="250"/><line x1="300" y1="80" x2="300" y2="200"/><line x1="300" y1="240" x2="300" y2="440"/>
+<line x1="300" y1="320" x2="520" y2="320"/><line x1="410" y1="320" x2="410" y2="360"/><line x1="410" y1="400" x2="410" y2="440"/>
+<path d="M300 200 a40 40 0 0 1 40 40"/><rect x="140" y="110" width="90" height="60" rx="6"/><rect x="340" y="110" width="140" height="80" rx="12"/><rect x="130" y="300" width="60" height="100"/><circle cx="460" cy="380" r="22"/>
+<rect x="100" y="80" width="200" height="170" fill="#85014d" fill-opacity=".08" stroke="none"/>
+<circle cx="620" cy="250" r="50" fill="#fff"/><circle cx="620" cy="250" r="18"/><path d="M620 300 v150 M620 380 h30 M620 420 h40"/>
+<path d="M560 150 q60-60 120 0" stroke="#f5d90a" stroke-width="6"/></g>
+<line x1="60" y1="530" x2="300" y2="530" stroke="#85014d" stroke-width="4" stroke-linecap="round"/>
+</svg>

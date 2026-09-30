@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of a retail showroom with display shelves and counter">
+<defs><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ed3050" stop-opacity=".30"/><stop offset="1" stop-color="#ed3050" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f5d90a" stop-opacity=".28"/><stop offset="1" stop-color="#f5d90a" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="600" fill="#faf6f1"/>
+<rect x="0" y="0" width="800" height="470" fill="#fde8ec"/>
+<circle cx="600" cy="170" r="230" fill="url(#g1)"/><circle cx="170" cy="390" r="200" fill="url(#g2)"/>
+<line x1="0" y1="470" x2="800" y2="470" stroke="#2a2226" stroke-width="3"/>
+<g fill="none" stroke="#2a2226" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="60" y="60" width="680" height="50" fill="#fff"/><path d="M90 85 h140" stroke="#ed3050" stroke-width="8"/>
+<path d="M150 110 l-20 30 M300 110 l-20 30 M450 110 l-20 30 M600 110 l-20 30"/>
+<rect x="80" y="170" width="200" height="298" fill="#fff"/><line x1="80" y1="240" x2="280" y2="240"/><line x1="80" y1="310" x2="280" y2="310"/><line x1="80" y1="380" x2="280" y2="380"/>
+<rect x="100" y="200" width="36" height="40"/><rect x="150" y="210" width="36" height="30"/><rect x="200" y="195" width="50" height="45"/><rect x="110" y="270" width="60" height="40"/><rect x="190" y="280" width="40" height="30"/><rect x="100" y="340" width="40" height="40"/><rect x="160" y="350" width="90" height="30"/>
+<rect x="360" y="360" width="200" height="108" fill="#fff"/><rect x="360" y="340" width="200" height="20" fill="#fff"/><path d="M380 400 h160" stroke="#ed3050" stroke-opacity=".5"/>
+<circle cx="440" cy="300" r="26" fill="#fff"/><line x1="440" y1="326" x2="440" y2="340"/>
+<rect x="610" y="190" width="110" height="278" fill="#fff"/><line x1="610" y1="260" x2="720" y2="260"/><line x1="610" y1="330" x2="720" y2="330"/><line x1="610" y1="400" x2="720" y2="400"/>
+<circle cx="640" cy="236" r="12"/><circle cx="690" cy="236" r="12"/><rect x="630" y="290" width="70" height="40"/></g>
+<line x1="60" y1="530" x2="300" y2="530" stroke="#ed3050" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of an office workspace with desk, chair and shelving">
+<defs><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#009de3" stop-opacity=".30"/><stop offset="1" stop-color="#009de3" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ed3050" stop-opacity=".28"/><stop offset="1" stop-color="#ed3050" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="600" fill="#faf6f1"/>
+<rect x="0" y="0" width="800" height="470" fill="#e3f3fb"/>
+<circle cx="600" cy="170" r="230" fill="url(#g1)"/><circle cx="170" cy="390" r="200" fill="url(#g2)"/>
+<line x1="0" y1="470" x2="800" y2="470" stroke="#2a2226" stroke-width="3"/>
+<g fill="none" stroke="#2a2226" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="90" y="90" width="220" height="170" fill="#fff"/><line x1="90" y1="120" x2="310" y2="120"/><line x1="90" y1="150" x2="310" y2="150"/><line x1="90" y1="180" x2="310" y2="180"/><line x1="90" y1="210" x2="310" y2="210"/><line x1="90" y1="240" x2="310" y2="240"/>
+<rect x="420" y="90" width="300" height="200" fill="#fff"/><line x1="420" y1="140" x2="720" y2="140"/><line x1="420" y1="190" x2="720" y2="190"/><line x1="420" y1="240" x2="720" y2="240"/>
+<rect x="440" y="110" width="30" height="30"/><rect x="480" y="100" width="20" height="40"/><rect x="560" y="160" width="60" height="30"/><circle cx="670" cy="220" r="16"/>
+<rect x="160" y="340" width="420" height="16" fill="#fff"/><line x1="180" y1="356" x2="180" y2="468"/><line x1="560" y1="356" x2="560" y2="468"/><rect x="440" y="356" width="120" height="80" fill="#fff"/><line x1="440" y1="396" x2="560" y2="396"/>
+<rect x="250" y="250" width="140" height="90" rx="6" fill="#fff"/><rect x="262" y="262" width="116" height="66" fill="#009de3" fill-opacity=".18" stroke="none"/><line x1="320" y1="340" x2="320" y2="340"/>
+<path d="M300 400 q0-40 40-40 h20 q40 0 40 40 v20 h-100z" fill="#fff"/><line x1="350" y1="420" x2="350" y2="455"/><path d="M320 468 l30-13 30 13"/>
+<path d="M658 418 h44 l-6 52 h-32 z" fill="#fff"/><path d="M680 418 C676 378 640 358 626 328"/><path d="M680 418 C686 368 710 348 730 318"/><path d="M680 418 C680 368 674 328 682 288"/><ellipse cx="640" cy="346" rx="16" ry="7" transform="rotate(-40 640 346)" fill="#7ca40f" fill-opacity=".35"/><ellipse cx="716" cy="338" rx="16" ry="7" transform="rotate(35 716 338)" fill="#7ca40f" fill-opacity=".35"/><ellipse cx="678" cy="306" rx="7" ry="16" fill="#7ca40f" fill-opacity=".35"/></g>
+<line x1="60" y1="530" x2="300" y2="530" stroke="#009de3" stroke-width="4" stroke-linecap="round"/>
+</svg>

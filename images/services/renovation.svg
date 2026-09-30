@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of a room being renovated with ladder, paint roller and swatches">
+<defs><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#e0b400" stop-opacity=".30"/><stop offset="1" stop-color="#e0b400" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ed3050" stop-opacity=".28"/><stop offset="1" stop-color="#ed3050" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="600" fill="#faf6f1"/>
+<rect x="0" y="0" width="800" height="470" fill="#fdf7d8"/>
+<circle cx="600" cy="170" r="230" fill="url(#g1)"/><circle cx="170" cy="390" r="200" fill="url(#g2)"/>
+<line x1="0" y1="470" x2="800" y2="470" stroke="#2a2226" stroke-width="3"/>
+<g fill="none" stroke="#2a2226" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="80" y="80" width="360" height="388" fill="#fff"/><rect x="80" y="80" width="200" height="388" fill="#e0b400" fill-opacity=".18" stroke="none"/><line x1="280" y1="80" x2="280" y2="468" stroke-dasharray="6 10"/>
+<rect x="250" y="160" width="60" height="26" rx="6" fill="#fff"/><path d="M310 173 h20 v40 h-40 v30"/><line x1="290" y1="243" x2="290" y2="310"/>
+<path d="M520 468 l60 -330 M640 468 l-60 -330"/><path d="M536 380 h92 M550 300 h64 M564 220 h36"/>
+<rect x="660" y="130" width="60" height="44" fill="#ed3050" fill-opacity=".6"/><rect x="660" y="184" width="60" height="44" fill="#7ca40f" fill-opacity=".6"/><rect x="660" y="238" width="60" height="44" fill="#009de3" fill-opacity=".6"/>
+<path d="M470 468 v-40 h50 v40" fill="#fff"/><path d="M470 428 q25-18 50 0"/></g>
+<line x1="60" y1="530" x2="300" y2="530" stroke="#e0b400" stroke-width="4" stroke-linecap="round"/>
+</svg>

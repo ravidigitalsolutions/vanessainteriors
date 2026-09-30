@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of an apartment building">
+<defs><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#009de3" stop-opacity=".30"/><stop offset="1" stop-color="#009de3" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ed3050" stop-opacity=".28"/><stop offset="1" stop-color="#ed3050" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="600" fill="#faf6f1"/>
+<rect x="0" y="0" width="800" height="470" fill="#e3f3fb"/>
+<circle cx="600" cy="170" r="230" fill="url(#g1)"/><circle cx="170" cy="390" r="200" fill="url(#g2)"/>
+<line x1="0" y1="470" x2="800" y2="470" stroke="#2a2226" stroke-width="3"/>
+<g fill="none" stroke="#2a2226" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="230" y="70" width="340" height="398" fill="#fff"/>
+<rect x="260" y="100" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="370" y="100" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="480" y="100" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="260" y="180" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="370" y="180" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="480" y="180" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="260" y="260" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="370" y="260" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="480" y="260" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="260" y="340" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="370" y="340" width="60" height="50" fill="#009de3" fill-opacity=".15"/><rect x="480" y="340" width="60" height="50" fill="#009de3" fill-opacity=".15"/>
+<rect x="370" y="410" width="60" height="58" fill="#fff"/><path d="M40 468 q30-60 60 0 M690 468 q30-50 60 0" fill="#7ca40f" fill-opacity=".3"/>
+<path d="M600 468 v-200 h120 v200" fill="#fff"/><path d="M620 300 h80 M620 340 h80 M620 380 h80 M620 420 h80" stroke-opacity=".4"/></g>
+<line x1="60" y1="530" x2="300" y2="530" stroke="#009de3" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of a bedroom with upholstered headboard and side lamps">
+<defs><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#85014d" stop-opacity=".30"/><stop offset="1" stop-color="#85014d" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f5d90a" stop-opacity=".28"/><stop offset="1" stop-color="#f5d90a" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="600" fill="#faf6f1"/>
+<rect x="0" y="0" width="800" height="470" fill="#f6e6ef"/>
+<circle cx="600" cy="170" r="230" fill="url(#g1)"/><circle cx="170" cy="390" r="200" fill="url(#g2)"/>
+<line x1="0" y1="470" x2="800" y2="470" stroke="#2a2226" stroke-width="3"/>
+<g fill="none" stroke="#2a2226" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="230" y="190" width="340" height="170" rx="10" fill="#fff"/><line x1="315" y1="190" x2="315" y2="360"/><line x1="400" y1="190" x2="400" y2="360"/><line x1="485" y1="190" x2="485" y2="360"/>
+<rect x="210" y="360" width="380" height="80" rx="8" fill="#fff"/><path d="M210 395 h380"/>
+<rect x="255" y="325" width="120" height="40" rx="18" fill="#fff"/><rect x="425" y="325" width="120" height="40" rx="18" fill="#fff"/>
+<path d="M400 360 h190 v80 h-150 z" fill="#85014d" fill-opacity=".18"/>
+<line x1="225" y1="440" x2="225" y2="468"/><line x1="575" y1="440" x2="575" y2="468"/>
+<rect x="100" y="380" width="90" height="88" fill="#fff"/><line x1="100" y1="420" x2="190" y2="420"/>
+<rect x="610" y="380" width="90" height="88" fill="#fff"/><line x1="610" y1="420" x2="700" y2="420"/>
+<line x1="145" y1="380" x2="145" y2="320"/><path d="M118 320 h54 l-10-44 h-34z" fill="#fff"/>
+<line x1="655" y1="380" x2="655" y2="320"/><path d="M628 320 h54 l-10-44 h-34z" fill="#fff"/>
+<path d="M200 80 h400" stroke-dasharray="2 14"/><rect x="340" y="110" width="120" height="56" rx="4" fill="#fff"/></g>
+<line x1="60" y1="530" x2="300" y2="530" stroke="#85014d" stroke-width="4" stroke-linecap="round"/>
+</svg>

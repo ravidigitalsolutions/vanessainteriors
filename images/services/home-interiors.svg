@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Illustration of an open-plan home with living and dining areas">
+<defs><radialGradient id="g1" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ed3050" stop-opacity=".30"/><stop offset="1" stop-color="#ed3050" stop-opacity="0"/></radialGradient>
+<radialGradient id="g2" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#f5d90a" stop-opacity=".28"/><stop offset="1" stop-color="#f5d90a" stop-opacity="0"/></radialGradient></defs>
+<rect width="800" height="600" fill="#faf6f1"/>
+<rect x="0" y="0" width="800" height="470" fill="#fde8ec"/>
+<circle cx="600" cy="170" r="230" fill="url(#g1)"/><circle cx="170" cy="390" r="200" fill="url(#g2)"/>
+<line x1="0" y1="470" x2="800" y2="470" stroke="#2a2226" stroke-width="3"/>
+<g fill="none" stroke="#2a2226" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+<rect x="80" y="100" width="170" height="220" fill="#009de3" fill-opacity=".12"/><rect x="80" y="100" width="170" height="220"/><line x1="165" y1="100" x2="165" y2="320"/>
+<path d="M100 380 q0-30 30-30 h170 q30 0 30 30 v30 h-230z" fill="#fff"/><rect x="90" y="400" width="250" height="44" rx="10" fill="#fff"/><line x1="110" y1="444" x2="110" y2="468"/><line x1="320" y1="444" x2="320" y2="468"/>
+<rect x="430" y="360" width="240" height="14" fill="#fff"/><line x1="450" y1="374" x2="450" y2="468"/><line x1="650" y1="374" x2="650" y2="468"/>
+<path d="M470 360 v-50 h40 v50 M590 360 v-50 h40 v50" fill="#fff"/><path d="M470 420 h40 v48 M630 420 h-40 v48"/>
+<line x1="550" y1="0" x2="550" y2="170"/><path d="M510 204 Q550 156 590 204 z" fill="#fff"/><ellipse cx="550" cy="214" rx="30" ry="6" fill="#f5d90a" fill-opacity=".45" stroke="none"/>
+<rect x="380" y="120" width="120" height="80" rx="4" fill="#fff"/><rect x="600" y="100" width="90" height="120" rx="45" fill="#ed3050" fill-opacity=".12"/></g>
+<line x1="60" y1="530" x2="300" y2="530" stroke="#ed3050" stroke-width="4" stroke-linecap="round"/>
+</svg>
